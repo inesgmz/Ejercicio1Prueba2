@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ejercicio1Prueba2</string>
+    <string-array name="days_of_week">
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miércoles</item>
+        <item>Jueves</item>
+        <item>Viernes</item>
+        <item>Sábado</item>
+        <item>Domingo</item>
+    </string-array>
+</resources>
