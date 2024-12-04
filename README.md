@@ -46,4 +46,4 @@ Muestra la clase actual basada en la fecha y hora actuales.
 - **CurrentClassActivity.btnBack.setOnClickListener**: Cierra la actividad.
 - **CurrentClassActivity.currentClass**: Calcula la clase actual basada en la fecha y hora actuales.
 
-URL: 
+URL: https://github.com/inesgmz/Ejercicio1Prueba2.git
